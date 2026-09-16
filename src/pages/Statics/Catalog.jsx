@@ -1,4 +1,4 @@
-function App() {
+function Catalog() {
   return (
     <>
       <h1>Catalog</h1>
@@ -6,4 +6,4 @@ function App() {
   )
 }
 
-export default App
+export default Catalog
