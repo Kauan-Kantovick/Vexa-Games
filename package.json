@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently \"npm run react\" \"npm run api\"",
+    "react": "vite",
+    "api": "npx json-server --watch src/data/games.json",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
