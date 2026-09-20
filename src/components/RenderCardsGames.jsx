@@ -1,33 +1,41 @@
-function RenderingCardsGames ({ games }) {
-return games.map((game) => {
-  return (
-    <div key={game.id}>
-      <h3>{game.name}</h3>
+import RenderingGameGenres from "./RenderGameGenres";
 
-      <div>
+function RenderingCardsGames({ games }) {
+  return games.map((game) => {
+    return (
+      <div key={game.id}>
+        <h3>{game.name}</h3>
+
         <div>
-          <p>
-            <strong>Price:</strong>
-            R$ {game.unitPrice}
-          </p>
+          <div>
+            <img src={game.coverImage} alt={game.name} />
+            <p>
+              <strong>Price: </strong>
+              R${game.unitPrice}
+            </p>
 
-          <p>
-            <strong>Quantity:</strong>
-            {game.quantity
-              ? game.quantity
-              : "Out of stock"}
-          </p>
+            <p>
+              <strong>Release date: </strong>
+              {game.releaseDate}
+            </p>
+
+            <p>
+              <strong>Critic score: </strong>
+              {game.criticScore}
+            </p>
+
+            <p>
+              <strong>Genres</strong>
+            </p>
+            <ul>
+                <RenderingGameGenres game={game} />
+            </ul>
+
+          </div>
         </div>
-
-        <img
-          src={game.coverImage}
-          alt={game.name}
-        />
       </div>
-    </div>
-  );
-});
-
+    );
+  });
 }
 
-export default RenderingCardsGames
+export default RenderingCardsGames;
