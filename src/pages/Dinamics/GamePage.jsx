@@ -13,10 +13,7 @@ function GamePage() {
 
   return (
     <>
-      <h1>Page of game whit id = {id}</h1>
-
-      <p>{game.name}</p>
-
+      <h1>{game.name}</h1>
     </>
   );
 }
