@@ -14,7 +14,7 @@ function GamePage() {
 
   return (
     <>
-        <RenderingPageGame game={game} />
+        <RenderingPageGame game={game}/>
     </>
   );
 }
