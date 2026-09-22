@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
+import RenderingPageGame from "../../components/RenderPageGame";
 
 function GamePage() {
   const { id } = useParams();
@@ -13,7 +14,7 @@ function GamePage() {
 
   return (
     <>
-      <h1>{game.name}</h1>
+        <RenderingPageGame game={game} />
     </>
   );
 }
