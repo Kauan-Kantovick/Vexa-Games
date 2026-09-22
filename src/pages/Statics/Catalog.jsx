@@ -6,12 +6,15 @@ function Catalog() {
   const [games, setGames] = useState([]);
 
   const [search, setSearch] = useState("");
-  const [filteredSearch, setFilteredSearch] = useState(search);
+  const [filteredSearch, setFilteredSearch] = useState(games);
 
   useEffect(() => {
     fetch("http://localhost:3000/games")
       .then((response) => response.json())
-      .then((data) => setGames(data));
+      .then((data) => {
+        setGames(data)
+        setFilteredSearch(data)
+      });
   }, []);
 
   useEffect(() => {
@@ -34,7 +37,7 @@ function Catalog() {
         style={{ border: "1px solid black", margin: "10px", padding: "10px" }}
       />
       
-      <RenderingCardsGames games={filteredSearch? filteredSearch : games } />
+      <RenderingCardsGames games={filteredSearch} />
 
       {filteredSearch.length === 0 && <p>No game founded</p>}
 
