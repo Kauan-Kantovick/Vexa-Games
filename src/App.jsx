@@ -1,7 +1,9 @@
-import { BrowserRouter, Route, Routes } from "react-router";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Cart from "./pages/Statics/Cart";
 import Catalog from "./pages/Statics/Catalog";
+import GamePage from "./pages/Dinamics/GamePage";
+import PixPage from "./PgPix";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Catalog />} />
           <Route path="/cart" element={<Cart />} />
+          <Route path="/pix" element={<PixPage />} />
+          <Route path="/gamepage/:id" element={<GamePage />} />
         </Routes>
       </BrowserRouter>
     </>

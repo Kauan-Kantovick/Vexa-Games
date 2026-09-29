@@ -1,6 +1,10 @@
 import RenderingGameGenres from "./RenderGameGenres";
+import { useNavigate } from "react-router-dom";
 
 function RenderingCardsGames({ games }) {
+  
+  const navigate = useNavigate();
+
   return games.map((game) => {
     return (
       <div key={game.id}>
@@ -23,6 +27,8 @@ function RenderingCardsGames({ games }) {
               <strong>Critic score: </strong>
               {game.criticScore}
             </p>
+
+            <button onClick={() => navigate(`/gamepage/${game.id}`)}>Ir para a adwoadp</button>
 
             <p>
               <strong>Genres</strong>
