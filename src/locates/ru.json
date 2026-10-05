@@ -1,5 +1,12 @@
 {
     "Cart": {
-        "pageTitle": "Корзина"
+        "pageTitle": "Корзина",
+        "catalogPath": "Посмотреть каталог"
+    },
+    "Catalog": {
+        "pageTitle": "Каталог",
+        "cartPath": "Посмотреть корзину",
+        "searchPlaceholder": "Поиск игры...",
+        "noGamesMessage": "Игры не найдены"
     }
 }

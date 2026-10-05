@@ -1,5 +1,12 @@
 {
     "Cart": {
-        "pageTitle": "Carrinho"
+        "pageTitle": "Carrinho",
+        "catalogPath": "Ver Catalógo"
+    },
+    "Catalog": {
+        "pageTitle": "Catálogo",
+        "cartPath": "Ver Carrinho",
+        "searchPlaceholder": "Buscar jogo...",
+        "noGamesMessage": "Nenhum jogo encontrado"
     }
 }

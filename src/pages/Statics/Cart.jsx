@@ -9,7 +9,7 @@ function Cart() {
     <>
       <h1>{t('Cart.pageTitle')}</h1>
 
-      <Link to="/">View Catalog</Link>
+      <Link to="/">{t('Cart.catalogPath')}</Link>
 
     </>
   )

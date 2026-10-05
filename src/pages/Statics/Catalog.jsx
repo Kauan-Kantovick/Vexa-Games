@@ -1,8 +1,11 @@
 import { Link } from "react-router";
 import { useState, useEffect } from "react";
 import RenderingCardsGames from "../../components/RenderCardsGames";
+import { useTranslation } from "react-i18next"
 
 function Catalog() {
+  const { t } = useTranslation()
+
   const [games, setGames] = useState([]);
 
   const [search, setSearch] = useState("");
@@ -24,19 +27,19 @@ function Catalog() {
 
   return (
     <>
-      <h1>Catalog</h1>
-      <Link to="/cart">View Cart</Link>
+      <h1>{t('Catalog.pageTitle')}</h1>
+      <Link to="/cart">{t('Catalog.cartPath')}</Link>
       <input
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         type="text"
-        placeholder="Search game..."
+        placeholder={t('Catalog.searchPlaceholder')}
         style={{ border: "1px solid black", margin: "10px", padding: "10px" }}
       />
       
       <RenderingCardsGames games={filteredSearch? filteredSearch : games } />
 
-      {filteredSearch.length === 0 && <p>No game founded</p>}
+      {filteredSearch.length === 0 && <p>{t('Catalog.noGamesMessage')}</p>}
 
     </>
   );
