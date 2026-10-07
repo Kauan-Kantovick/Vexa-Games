@@ -1,0 +1,104 @@
+{
+  "1": {
+    "description": "Uma aventura de mundo aberto em Hyrule na qual Link desperta após um longo sono e parte para recuperar suas memórias e impedir a ameaça de Calamity Ganon. O jogador pode explorar livremente o mundo, resolver santuários, coletar recursos e enfrentar inimigos.",
+    "genres": ["Ação", "Aventura", "RPG", "Mundo aberto"],
+    "voiceLanguages": ["Inglês", "Japonês", "Francês (França)", "Alemão", "Espanhol (Espanha)", "Italiano", "Russo"],
+    "subtitleLanguages": ["Inglês", "Japonês", "Francês", "Alemão", "Espanhol", "Italiano", "Russo", "Holandês", "Português (Brasil)", "Chinês simplificado", "Chinês tradicional", "Coreano"]
+  },
+  "2": {
+    "description": "Kratos e Atreus embarcam em uma jornada pelos nove reinos da mitologia nórdica enquanto tentam compreender o destino de sua família e enfrentar os acontecimentos que antecedem o Ragnarök.",
+    "genres": ["Ação", "Aventura", "Hack and slash"],
+    "voiceLanguages": ["Inglês", "Francês (França)", "Português (Brasil)", "Espanhol (México)"],
+    "subtitleLanguages": ["Alemão", "Chinês simplificado", "Chinês tradicional", "Coreano", "Croata", "Espanhol (México)", "Francês (França)", "Grego", "Holandês", "Húngaro", "Inglês", "Italiano", "Japonês", "Polonês", "Português (Brasil)", "Português (Portugal)", "Russo", "Tcheco", "Turco", "Árabe"]
+  },
+  "3": {
+    "description": "Um RPG de ação em mundo aberto ambientado nas Terras Intermédias. O jogador assume o papel de um Maculado e explora um vasto mundo repleto de masmorras, chefes, personagens e mistérios enquanto busca se tornar o Elden Lord.",
+    "genres": ["Ação", "RPG", "Mundo aberto", "Soulslike"],
+    "voiceLanguages": ["Inglês", "Japonês"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Japonês", "Coreano", "Polonês", "Russo", "Chinês simplificado", "Espanhol (América Latina)", "Tailandês", "Chinês tradicional", "Árabe"]
+  },
+  "4": {
+    "description": "Uma aventura de ação em mundo aberto ambientada no Velho Oeste americano. Arthur Morgan e a gangue Van der Linde tentam sobreviver enquanto a era dos fora-da-lei chega ao fim.",
+    "genres": ["Ação", "Aventura", "Mundo aberto"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Inglês", "Francês", "Alemão", "Espanhol", "Italiano", "Japonês", "Polonês", "Português (Brasil)", "Chinês simplificado", "Chinês tradicional", "Coreano", "Russo"]
+  },
+  "5": {
+    "description": "Geralt de Rívia, um caçador de monstros profissional, atravessa um vasto mundo aberto em busca de Ciri enquanto enfrenta monstros, conflitos políticos e decisões que alteram o destino dos personagens e das regiões.",
+    "genres": ["RPG", "Ação", "Aventura", "Mundo aberto"],
+    "voiceLanguages": ["Inglês", "Polonês", "Francês", "Alemão", "Russo", "Português (Brasil)", "Espanhol", "Chinês simplificado", "Chinês tradicional"],
+    "subtitleLanguages": ["Inglês", "Polonês", "Francês", "Alemão", "Russo", "Português (Brasil)", "Espanhol", "Italiano", "Japonês", "Chinês simplificado", "Chinês tradicional", "Coreano", "Turco"]
+  },
+  "6": {
+    "description": "Uma aventura de ação em mundo aberto ambientada em Los Santos. A história acompanha Michael, Franklin e Trevor, três criminosos cujos destinos se cruzam em uma série de assaltos e conflitos.",
+    "genres": ["Ação", "Aventura", "Mundo aberto"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Inglês", "Francês", "Alemão", "Italiano", "Espanhol", "Português (Brasil)", "Japonês", "Coreano", "Chinês simplificado", "Chinês tradicional", "Russo", "Polonês"]
+  },
+  "7": {
+    "description": "Um jogo sandbox no qual os jogadores podem explorar mundos gerados proceduralmente, coletar recursos, construir estruturas, fabricar itens e sobreviver a criaturas em diferentes modos de jogo.",
+    "genres": ["Sandbox", "Aventura", "Sobrevivência", "Construção"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Espanhol", "Francês", "Alemão", "Italiano", "Japonês", "Coreano", "Chinês simplificado", "Chinês tradicional", "Russo", "Polonês"]
+  },
+  "8": {
+    "description": "Um RPG de ação em mundo aberto ambientado em Night City, uma metrópole futurista dominada por megacorporações, gangues e tecnologia. O jogador controla V, um mercenário em busca de um implante que promete vida eterna.",
+    "genres": ["RPG", "Ação", "FPS", "Mundo aberto"],
+    "voiceLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Japonês", "Coreano", "Polonês", "Russo", "Chinês simplificado"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Árabe", "Tcheco", "Húngaro", "Japonês", "Coreano", "Polonês", "Russo", "Chinês simplificado", "Espanhol (América Latina)", "Tailandês", "Chinês tradicional", "Turco", "Ucraniano"]
+  },
+  "9": {
+    "description": "Um RPG de ação em mundo aberto ambientado no universo de Harry Potter durante o século XIX. O jogador cria seu próprio estudante de Hogwarts, aprende magia, explora o castelo e seus arredores e enfrenta diversos perigos.",
+    "genres": ["RPG", "Ação", "Aventura", "Mundo aberto"],
+    "voiceLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Japonês", "Espanhol (América Latina)"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Árabe", "Japonês", "Coreano", "Polonês", "Russo", "Chinês simplificado", "Espanhol (América Latina)", "Chinês tradicional"]
+  },
+  "10": {
+    "description": "Um remake do clássico survival horror de 2005. Leon S. Kennedy é enviado para uma região rural da Europa para resgatar Ashley Graham, filha do presidente dos Estados Unidos, e acaba enfrentando uma misteriosa seita e criaturas infectadas.",
+    "genres": ["Survival horror", "Ação", "Terror"],
+    "voiceLanguages": ["Inglês", "Japonês"],
+    "subtitleLanguages": ["Inglês", "Francês", "Italiano", "Alemão", "Espanhol", "Português (Brasil)", "Japonês", "Chinês simplificado", "Chinês tradicional", "Coreano", "Russo"]
+  },
+  "11": {
+    "description": "Peter Parker e Miles Morales unem forças para proteger Nova York enquanto enfrentam novas ameaças, incluindo Kraven, o Caçador, e Venom. O jogo combina exploração da cidade, combate e habilidades únicas dos dois Spider-Men.",
+    "genres": ["Ação", "Aventura", "Mundo aberto", "Super-heróis"],
+    "voiceLanguages": ["Inglês", "Francês", "Italiano", "Alemão", "Espanhol", "Português (Brasil)", "Polonês", "Espanhol (América Latina)"],
+    "subtitleLanguages": ["Inglês", "Francês", "Italiano", "Alemão", "Espanhol", "Português (Brasil)", "Polonês", "Japonês", "Chinês simplificado", "Chinês tradicional", "Coreano", "Espanhol (América Latina)"]
+  },
+  "12": {
+    "description": "Mario embarca em uma viagem pelo mundo para resgatar Peach das mãos de Bowser. Com a ajuda de Cappy, seu chapéu mágico, Mario pode assumir o controle de diversos inimigos e objetos enquanto explora reinos tridimensionais.",
+    "genres": ["Plataforma", "Ação", "Aventura"],
+    "voiceLanguages": ["Inglês", "Japonês"],
+    "subtitleLanguages": ["Inglês", "Espanhol", "Francês", "Alemão", "Italiano", "Holandês", "Russo", "Japonês", "Chinês simplificado", "Chinês tradicional"]
+  },
+  "13": {
+    "description": "Um RPG baseado nas regras de Dungeons & Dragons. O jogador reúne um grupo de aventureiros, explora a região de Forgotten Realms e toma decisões que podem alterar profundamente a história, os relacionamentos e o destino do mundo.",
+    "genres": ["RPG", "RPG tático", "Aventura", "Fantasia"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Inglês", "Francês", "Alemão", "Espanhol", "Polonês", "Russo", "Chinês simplificado", "Chinês tradicional", "Coreano", "Português (Brasil)"]
+  },
+  "14": {
+    "description": "Um jogo de corrida em mundo aberto ambientado no México. O jogador participa de diversos eventos e desafios enquanto coleciona carros, explora diferentes regiões e compete em uma grande variedade de modalidades.",
+    "genres": ["Corrida", "Ação", "Aventura", "Simulação", "Esportes"],
+    "voiceLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Japonês", "Coreano", "Chinês simplificado", "Espanhol (América Latina)", "Chinês tradicional"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Francês", "Italiano", "Alemão", "Espanhol (Espanha)", "Tcheco", "Húngaro", "Japonês", "Coreano", "Polonês", "Russo", "Chinês simplificado", "Espanhol (América Latina)", "Chinês tradicional", "Turco"]
+  },
+  "15": {
+    "description": "A segunda parte do projeto de remake de Final Fantasy VII. Cloud e seus companheiros deixam Midgar e atravessam um mundo muito maior em busca de Sephiroth enquanto descobrem novos acontecimentos e enfrentam desafios.",
+    "genres": ["RPG", "Ação", "Aventura"],
+    "voiceLanguages": ["Japonês", "Inglês", "Francês", "Alemão"],
+    "subtitleLanguages": ["Japonês", "Inglês", "Francês", "Alemão", "Italiano", "Espanhol (Espanha)", "Português (Brasil)", "Espanhol (América Latina)"]
+  },
+  "16": {
+    "description": "Um roguelike de ação no qual Zagreus, filho de Hades, tenta escapar do submundo grego. Cada tentativa apresenta combates, poderes e encontros diferentes, enquanto a história continua avançando mesmo após a morte.",
+    "genres": ["Roguelike", "Ação", "RPG", "Indie"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Inglês", "Francês", "Alemão", "Espanhol", "Italiano", "Português (Brasil)", "Russo", "Chinês simplificado", "Chinês tradicional", "Japonês", "Coreano"]
+  },
+  "17": {
+    "description": "Uma aventura de ação e exploração em 2D ambientada em Hallownest, um reino subterrâneo habitado por insetos. O jogador explora áreas interconectadas, enfrenta inimigos e chefes e descobre a história do reino.",
+    "genres": ["Metroidvania", "Ação", "Aventura", "Plataforma"],
+    "voiceLanguages": ["Inglês"],
+    "subtitleLanguages": ["Português (Brasil)", "Inglês", "Francês", "Alemão", "Espanhol (Espanha)", "Coreano", "Chinês simplificado", "Italiano", "Russo", "Japonês", "Chinês tradicional"]
+  }
+}
