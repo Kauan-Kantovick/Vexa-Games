@@ -1,6 +1,5 @@
-import RenderingGameGenres from "./RenderGameGenres";
-
 function RenderingCardsGames({ games }) {
+  console.log(games);
   return games.map((game) => {
     return (
       <div key={game.id}>
@@ -23,13 +22,6 @@ function RenderingCardsGames({ games }) {
               <strong>Critic score: </strong>
               {game.criticScore}
             </p>
-
-            <p>
-              <strong>Genres</strong>
-            </p>
-            <ul>
-                <RenderingGameGenres game={game} />
-            </ul>
 
           </div>
         </div>

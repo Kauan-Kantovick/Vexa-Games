@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently \"npm run react\" \"npm run api\"",
     "react": "vite",
-    "api": "npx json-server --watch src/data/games.json",
+    "api": "npx json-server --watch src/data/games.json --port 3000",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
