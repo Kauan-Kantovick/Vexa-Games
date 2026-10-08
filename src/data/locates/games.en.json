@@ -1,0 +1,104 @@
+{
+  "1": {
+    "description": "An open-world adventure in Hyrule in which Link awakens from a deep sleep and sets off to recover his memories and stop the threat of Calamity Ganon. Players can freely explore the world, solve shrines, gather resources, and battle enemies.",
+    "genres": ["Action", "Adventure", "RPG", "Open World"],
+    "voiceLanguages": ["English", "Japanese", "French (France)", "German", "Spanish (Spain)", "Italian", "Russian"],
+    "subtitleLanguages": ["English", "Japanese", "French", "German", "Spanish", "Italian", "Russian", "Dutch", "Portuguese (Brazil)", "Simplified Chinese", "Traditional Chinese", "Korean"]
+  },
+  "2": {
+    "description": "Kratos and Atreus embark on a journey across the Nine Realms of Norse mythology as they try to understand their family's fate and face the events leading up to Ragnarök.",
+    "genres": ["Action", "Adventure", "Hack and slash"],
+    "voiceLanguages": ["English", "French (France)", "Portuguese (Brazil)", "Spanish (Mexico)"],
+    "subtitleLanguages": ["German", "Simplified Chinese", "Traditional Chinese", "Korean", "Croatian", "Spanish (Mexico)", "French (France)", "Greek", "Dutch", "Hungarian", "English", "Italian", "Japanese", "Polish", "Portuguese (Brazil)", "Portuguese (Portugal)", "Russian", "Czech", "Turkish", "Arabic"]
+  },
+  "3": {
+    "description": "An open-world action RPG set in the Lands Between. Players take on the role of a Tarnished and explore a vast world filled with dungeons, bosses, characters, and mysteries as they strive to become the Elden Lord.",
+    "genres": ["Action", "RPG", "Open World", "Soulslike"],
+    "voiceLanguages": ["English", "Japanese"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Japanese", "Korean", "Polish", "Russian", "Simplified Chinese", "Spanish (Latin America)", "Thai", "Traditional Chinese", "Arabic"]
+  },
+  "4": {
+    "description": "An open-world action-adventure set in the American Old West. Arthur Morgan and the Van der Linde gang fight for survival as the era of outlaws comes to an end.",
+    "genres": ["Action", "Adventure", "Open World"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["English", "French", "German", "Spanish", "Italian", "Japanese", "Polish", "Portuguese (Brazil)", "Simplified Chinese", "Traditional Chinese", "Korean", "Russian"]
+  },
+  "5": {
+    "description": "Geralt of Rivia, a professional monster hunter, travels across a vast open world in search of Ciri while confronting monsters, political conflicts, and decisions that shape the fate of characters and realms.",
+    "genres": ["RPG", "Action", "Adventure", "Open World"],
+    "voiceLanguages": ["English", "Polish", "French", "German", "Russian", "Portuguese (Brazil)", "Spanish", "Simplified Chinese", "Traditional Chinese"],
+    "subtitleLanguages": ["English", "Polish", "French", "German", "Russian", "Portuguese (Brazil)", "Spanish", "Italian", "Japanese", "Simplified Chinese", "Traditional Chinese", "Korean", "Turkish"]
+  },
+  "6": {
+    "description": "An open-world action-adventure set in Los Santos. The story follows Michael, Franklin, and Trevor, three criminals whose lives intertw through a series of heists and conflicts.",
+    "genres": ["Action", "Adventure", "Open World"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["English", "French", "German", "Italian", "Spanish", "Portuguese (Brazil)", "Japanese", "Korean", "Simplified Chinese", "Traditional Chinese", "Russian", "Polish"]
+  },
+  "7": {
+    "description": "A sandbox game where players can explore procedurally generated worlds, gather resources, build structures, craft items, and survive creatures across various game modes.",
+    "genres": ["Sandbox", "Adventure", "Survival", "Building"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "Spanish", "French", "German", "Italian", "Japanese", "Korean", "Simplified Chinese", "Traditional Chinese", "Russian", "Polish"]
+  },
+  "8": {
+    "description": "An open-world action RPG set in Night City, a futuristic metropolis dominated by megacorporations, gangs, and technology. Players control V, a mercenary searching for an implant that key to immortality.",
+    "genres": ["RPG", "Action", "FPS", "Open World"],
+    "voiceLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Japanese", "Korean", "Polish", "Russian", "Simplified Chinese"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Arabic", "Czech", "Hungarian", "Japanese", "Korean", "Polish", "Russian", "Simplified Chinese", "Spanish (Latin America)", "Thai", "Traditional Chinese", "Turkish", "Ukrainian"]
+  },
+  "9": {
+    "description": "An open-world action RPG set in the Harry Potter universe during the 19th century. Players create their own Hogwarts student, learn magic, explore the castle and its surroundings, and face numerous perils.",
+    "genres": ["RPG", "Action", "Adventure", "Open World"],
+    "voiceLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Japanese", "Spanish (Latin America)"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Arabic", "Japanese", "Korean", "Polish", "Russian", "Simplified Chinese", "Spanish (Latin America)", "Traditional Chinese"]
+  },
+  "10": {
+    "description": "A remake of the 2005 survival horror classic. Leon S. Kennedy is sent to a rural European village to rescue Ashley Graham, the U.S. President's daughter, where he faces a mysterious cult and infected creatures.",
+    "genres": ["Survival horror", "Action", "Horror"],
+    "voiceLanguages": ["English", "Japanese"],
+    "subtitleLanguages": ["English", "French", "Italian", "German", "Spanish", "Portuguese (Brazil)", "Japanese", "Simplified Chinese", "Traditional Chinese", "Korean", "Russian"]
+  },
+  "11": {
+    "description": "Peter Parker and Miles Morales join forces to protect New York City while facing new threats, including Kraven the Hunter and Venom. The game combines city traversal, combat, and unique abilities of both Spider-Men.",
+    "genres": ["Action", "Adventure", "Open World", "Superheroes"],
+    "voiceLanguages": ["English", "French", "Italian", "German", "Spanish", "Portuguese (Brazil)", "Polish", "Spanish (Latin America)"],
+    "subtitleLanguages": ["English", "French", "Italian", "German", "Spanish", "Portuguese (Brazil)", "Polish", "Japanese", "Simplified Chinese", "Traditional Chinese", "Korean", "Spanish (Latin America)"]
+  },
+  "12": {
+    "description": "Mario embarks on a globe-trotting journey to rescue Peach from Bowser. With the help of Cappy, his magical hat, Mario can control various enemies and objects while exploring 3D kingdoms.",
+    "genres": ["Platformer", "Action", "Adventure"],
+    "voiceLanguages": ["English", "Japanese"],
+    "subtitleLanguages": ["English", "Spanish", "French", "German", "Italian", "Dutch", "Russian", "Japanese", "Simplified Chinese", "Traditional Chinese"]
+  },
+  "13": {
+    "description": "An RPG based on Dungeons & Dragons rules. Players gather a party of adventurers, explore the Forgotten Realms, and make choices that profoundly shape the story, relationships, and the world's fate.",
+    "genres": ["RPG", "Tactical RPG", "Adventure", "Fantasy"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["English", "French", "German", "Spanish", "Polish", "Russian", "Simplified Chinese", "Traditional Chinese", "Korean", "Portuguese (Brazil)"]
+  },
+  "14": {
+    "description": "An open-world racing game set in Mexico. Players take part in various events and challenges while collecting cars, exploring diverse environments, and competing across a wide range of disciplines.",
+    "genres": ["Racing", "Action", "Adventure", "Simulation", "Sports"],
+    "voiceLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Japanese", "Korean", "Simplified Chinese", "Spanish (Latin America)", "Traditional Chinese"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "French", "Italian", "German", "Spanish (Spain)", "Czech", "Hungarian", "Japanese", "Korean", "Polish", "Russian", "Simplified Chinese", "Spanish (Latin America)", "Traditional Chinese", "Turkish"]
+  },
+  "15": {
+    "description": "The second entry in the Final Fantasy VII remake project. Cloud and his companions leave Midgar to journey across a vastly larger world in pursuit of Sephiroth, discovering new events and facing fresh trials.",
+    "genres": ["RPG", "Action", "Adventure"],
+    "voiceLanguages": ["Japanese", "English", "French", "German"],
+    "subtitleLanguages": ["Japanese", "English", "French", "German", "Italian", "Spanish (Spain)", "Portuguese (Brazil)", "Spanish (Latin America)"]
+  },
+  "16": {
+    "description": "An action roguelike where Zagreus, Prince of the Underworld, attempts to escape his father's realm. Each escape attempt offers unique combat challenges, powers, and encounters, with the story progressing even in death.",
+    "genres": ["Roguelike", "Action", "RPG", "Indie"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["English", "French", "German", "Spanish", "Italian", "Portuguese (Brazil)", "Russian", "Simplified Chinese", "Traditional Chinese", "Japanese", "Korean"]
+  },
+  "17": {
+    "description": "A 2D action-adventure metroidvania set in Hallownest, a vast subterranean kingdom of insects. Players explore interconnected areas, fight challenging enemies and bosses, and unravel the kingdom's history.",
+    "genres": ["Metroidvania", "Action", "Adventure", "Platformer"],
+    "voiceLanguages": ["English"],
+    "subtitleLanguages": ["Portuguese (Brazil)", "English", "French", "German", "Spanish (Spain)", "Korean", "Simplified Chinese", "Italian", "Russian", "Japanese", "Traditional Chinese"]
+  }
+}

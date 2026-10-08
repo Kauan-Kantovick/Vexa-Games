@@ -1,0 +1,12 @@
+{
+    "Cart": {
+        "pageTitle": "Cart",
+        "catalogPath": "View Catalog"
+    },
+    "Catalog": {
+        "pageTitle": "Catalog",
+        "cartPath": "View Cart",
+        "searchPlaceholder": "Search game...",
+        "noGamesMessage": "No games found"
+    }
+}
